@@ -1,0 +1,148 @@
+/* 
+  Localizable.strings
+  LavanApp
+
+  Created by IPHONE-11 on 29/06/15.
+  Copyright (c) 2015 Rapidsoft Technologies Pvt. Ltd. All rights reserved.
+*/
+
+
+////////////////////////////////////////////////////////////
+    //English Version Localization file has been
+    //replaced with Spanish Version. For continuing
+    //English support too, replace current file in en.lproj
+    //folder with Localizable_english.strings file from
+    //bundle (after proper renaming)
+////////////////////////////////////////////////////////////
+"Registration" = "Regístrate";
+"Login" = "Entrar";
+"Search" = "Buscar";
+"Help" = "ayuda";
+"Register Now" = "Register Now";
+"Login to Your Account" = "Login to Your Account";
+"Contact Us" = "Contáctanos";
+"back" = "Volver";
+
+"Frequently Asked Questions" = "Frequently Asked Questions";
+"REGISTER" = "REGÍSTRATE";
+"Welcome to Lavanapp, Please complete the details to register." = "Bienvenido a Lavanapp. Por favor completa el formulario de registro.";
+"I would like to receive special offers and promotions in my email." = "Me gustaría recibir ofertas y promociones en mi e-mail";
+"COMPLETE REGISTRATION" = "COMPLETAR REGISTRO";
+"LOGIN" = "ENTRAR";
+"Please enter your user data." = "Por favor introduce tus datos de usuario";
+"Forgot Password ?" = "Forgot Password ?";
+"If you prefer, You can also:" = "Si prefieres, también puedes:";
+"LOGIN WITH FACEBOOK" = "ACCEDER CON FACEBOOK";
+"SIGNUP WITH FACEBOOK" = "            ENTRAR CON FACEBOOK";
+
+"CHECK OUT" = "CONTINUAR";
+"Invalid Email" = "Email Inválido";
+"Hello" = "Hola";
+"Don't received sms? then, resend SMS or confirm your account via email" = "¿No has recibido el SMS? Prueba a enviar de nuevo el SMS o envía el código por correo electrónico.";
+"Order No" = "Nº De Pedido";
+"In Progress" = "En Progreso";
+"Please confirm OTP, sent to your registered mobile number" = "Para verificar tu cuenta confirma el código que te hemos enviado a través de sms";
+"HIDE" = "OCALTAR";
+"SHOW" = "MOSTRAR";
+"Delivered" = "Entregado";
+"Done" = "Hecho";
+"OK" = "OK";
+"VERIFY" = "VERIFICAR";
+"Enter OTP" = "Introduce el código";
+"Send OTP Via Email" = "Enviar código por email";
+"Yes" = "sí";
+"No" = "No";
+"Put address with number" = "Ponga la dirección con número";
+"MY ACCOUNT" = "MI CUENTA";
+"NEW ORDER" = "NUEVO PEDIDO";
+"HOW IT WORKS" = "CÓMO FUNCIONA";
+"PRICE" = "PRECIOS";
+"MY ORDERS" = "MIS PEDIDOS";
+"CONTACT" = "CONTACTAR";
+"TERMS OF USE" = "TÉRMINOS Y CONDICIONES";
+"PRIVACY POLICY" = "POLÍTICA DE PRIVACIDAD";
+"CLOSE SESSION" = "CERRAR LA SESIÓN";
+"Enter Postal Code" = "Código Postal";
+"Congrats! Our service is available in your area. Please Login or Signup to continue." = "felicidades nuestro servicio está disponible en su área. Por favor iniciar sesión o registrarse para continuar.";
+"Incorrect OTP" = "OTP incorrecta";
+"ADD NEW ARTICLE" = "AÑADIR ARTÍCULO NUEVO";
+"Please Enter OTP" = "Código de Verificación";
+"Please Enter Valid Postal Code" = "Por Favor Escribe Código Postal Válido";
+"RESEND" = "REENVIAR";
+"Network error please try again later." = "Error de red por favor intente de nuevo más tarde.";
+"You need to restart the app again to change the language." = "Es necesario reiniciar la aplicación de nuevo para cambiar el idioma.";
+"Are you sure you want to Logout from the App." = "¿Estás seguro que quieres salir de Lavanapp?";
+"A mail has been sent to your mail id." = "Te hemos enviado un email para restablecer la contraseña";
+"Email ID can't be empty." = "ID de correo electrónico no puede estar vacío.";
+"Please enter valid email ID." = "Por favor escribe correo electrónico de identificación válida.";
+"Please enter your name." = "Por favor, escriba su nombre.";
+"Password can't be empty." = "La contraseña no puede estar vacío.";
+"Mobile number can't be empty." = "Número de móvil no puede estar vacío.";
+"Discount code field is empty." = "Campo de código de descuento está vacía.";
+"Please enter valid phone no, It should be 8 to 15 digits." = "Por favor escribe teléfono válido no, debería ser de 8 a 15 dígitos";
+"Mail and Confirm Mail values are not same." = "Los valores de correo electrónico y Confirmar no son iguales";
+"Password and Confirm Password values are not same." = "Valores contraseña y Confirmar contraseña no son los mismos.";
+"Are you sure you want to delete your account?" = "¿Seguro que quieres borrar tu cuenta?";
+"Are you sure you want to revert your profile changes." = "¿Seguro que desea revertir sus cambios de perfil.";
+"You need to login first before placing an order." = "Usted tiene que entrar primero antes de hacer un pedido.";
+"Minimum 8 characters required for password field." = "Mínimo 8 caracteres necesarios para el campo de la contraseña.";
+"Direction field is empty." = "Campo Dirección está vacía.";
+"City field is empty." = "Campo Ciudad está vacía.";
+"State field is empty." = "Campo Estado está vacía.";
+"Complement field is empty." = "Campo complemento está vacía.";
+"Postal Code field is empty." = "Campo Código Postal está vacía.";
+"Collection date field is empty." = "Campo de fecha de recogida está vacía.";
+"Collection time field is empty." = "Campo de hora colección está vacía.";
+"Delivery date field is empty." = "Campo de la fecha de entrega está vacía.";
+"Delivery time field is empty." = "Campo plazo de entrega está vacía.";
+"Facebook sharing cancelled." = "Facebook compartir cancelada.";
+"Message has been sent sucessfully." = "Mensaje ha sido enviado con éxito.";
+"Please set your Facebook account on Setting." = "Por favor, configure su cuenta de Facebook en Configuración.";
+"Twitter sharing cancelled." = "Twitter compartir cancelada.";
+"Please set your Twitter account on Setting." = "Por favor, configure su cuenta de Twitter en Configuración.";
+"Couldn't be shared due to some error." = "No podría ser compartida debido a algún error.";
+"Sharing" = "Compartiendo";
+"Successful" = "Exitoso";
+"Canceled" = "Cancelado";
+"FAQ" = "PF";
+"Terms of Uses" = "Términos y Condiciones";
+"Privacy Policy" = "Política De Privacidad";
+"Please review the fields marked in red." = "Por favor revise los campos marcados en rojo.";
+"Passwords do not match. Please review the fields marked in red." = "Las contraseñas no coinciden . Por favor revise los campos marcados en rojo.";
+"Emails do not match. Please review the fields marked in red." = "Los correos electrónicos no coinciden. Por favor revise los campos marcados en rojo.";
+"Items" = "Artículos";
+"Your order No." = "Tu pedido con número";
+"was successful. You can check your status at any time in the Your Orders section. Thank you for trusting Lavanapp." = "se ha realizado con éxito. Puedes consultar en cualquier momento su estado en la sección Mis Pedidos. Gracias por confiar en Lavanapp";
+"Complement" = "Bloque, piso, escalera";
+"Go To Login" = "Ir a Ingresar";
+"Cancel" = "Cancelar";
+"Choose Hour" = "Elige Hora";
+"Choose Date" = "Elige Fecha";
+"Please select collection date first." = "Envíe las fechas de cobro primero.";
+"Please select collection date and time first." = "Por favor seleccione la fecha y hora de recogida en primer lugar.";
+"Please select collection time and delivery date first." = "Por favor seleccione el tiempo de recolección y la fecha de entrega primero.";
+"Discount:" = "Descuento:";
+"Please select a state first." = "Por favor seleccione un estado primero.";
+"Your cart is empty please insert some products to place order." = "Tu cesta está vacía. Por favor, selecciona algún producto para hacer el pedido";
+"Your account updated successfully." = "Su cuenta actualizado correctamente.";
+"Your account deleted successfully." = "Su cuenta se ha eliminado correctamente";
+"Both passwords are not matching,it should be more than 8 character.please review the fields marked in red." = "La contraseña no coincide. Por favor introduce de nuevo tu contraseña. Recuerda que tiene que ser igual en ambos campos.";
+"Both emails are not matching,Please review the fields marked in red." = "Tanto correos electrónicos no son coincidentes , por favor revise los campos marcados en rojo.";
+"Please enter your name." = "Por favor, escriba su nombre.";
+"Please enter password with minimum length 8." = "Por favor, introduzca la contraseña con una longitud mínima de 8.";
+"Lavanapp share with your friends and they will win next 5 Euro for services" = "Comparte Lavanapp con tus amigos y ambos ganareis 5 Euro para proximos servicios";
+"YOUR CART" = "TU CESTA";
+"SAVED DETAILS" = "GUARDADO DETALLES";
+"Saved Details" = "Guardados Detalles";
+"New Payment Method" = "Nuevo método de pago";
+"Name On Card" = "Titular de la tarjeta";
+"Card Number" = "Número de la tarjeta";
+"Expiration Date(MM/YY)" = "Validez (MM/AA)";
+"Save Your Detail" = "Guardar";
+"CHECKOUT" = "CONTINUAR";
+"PRICING" = "PRECIOS";
+"How It Works" = "CÓMO FUNCIONA";
+"Please enter valid card no, It should be of 16 digits." = "Por favor, introduzca la tarjeta válida no, debería ser de 16 dígitos.";
+"Please enter valid expiry date" = "Por favor, introduzca la fecha de caducidad válida";
+"Please enter valid CVC" = "Por favor, introduzca válida CVC";
+

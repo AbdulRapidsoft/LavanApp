@@ -1,0 +1,133 @@
+/* 
+  Localizable.strings
+  LavanApp
+
+  Created by IPHONE-11 on 29/06/15.
+  Copyright (c) 2015 Rapidsoft Technologies Pvt. Ltd. All rights reserved.
+*/
+
+"Registration" = "Registration";
+"Login" = "Login";
+"Search" = "Search";
+"Help" = "Help";
+"Register Now" = "Register Now";
+"Login to Your Account" = "Login to Your Account";
+"Contact Us" = "Contact Us";
+"Frequently Asked Questions" = "Frequently Asked Questions";
+"Terms of Use" = "Terms of Use";
+"Privacy Policy" = "Privacy Policy";
+"REGISTER" = "REGISTER";
+"Welcome to Lavanapp, Please complete the details to register." = "Welcome to Lavanapp, Please complete the details to register.";
+"I would like to receive special offers and promotions in my email." = "I would like to receive special offers and promotions in my email.";
+"COMPLETE REGISTRATION" = "COMPLETE REGISTRATION";
+"LOGIN" = "LOGIN";
+"Please enter your user data." = "Please enter your user data.";
+"Forgot Password ?" = "Forgot Password ?";
+"If you prefer, You can also:" = "If you prefer, You can also:";
+"LOGIN WITH FACEBOOK" = "LOGIN WITH FACEBOOK";
+"CHECK OUT" = "CHECK OUT";
+"Hello" = "Hello";
+"Order No" = "Order No";
+"In Progress" = "In Progress";
+"HIDE" = "HIDE";
+"SHOW" = "SHOW";
+"Delivered" = "Delivered";
+"Done" = "Done";
+"OK" = "OK";
+"Yes" = "Yes";
+"No" = "No";
+"NEW ORDER" = "NEW ORDER";
+"MY ACCOUNT" = "MY ACCOUNT";
+"HOW IT WORKS" = "HOW IT WORKS";
+"PRICE" = "PRICE";
+"MY ORDERS" = "MY ORDERS";
+"CONTACT" = "CONTACT";
+"TERMS OF USE" = "TERMS OF USE";
+"PRIVACY POLICY" = "PRIVACY POLICY";
+"CLOSE SESSION" = "CLOSE SESSION";
+"Congrats! Our service is available in your area. Please Login or Signup to continue." = "Congrats! Our service is available in your area. Please Login or Signup to continue.";
+"Enter Postal Code" = "Enter Postal Code";
+"Incorrect OTP" = "Incorrect OTP";
+"ADD NEW ARTICLE" = "ADD NEW ARTICLE";
+"Please Enter OTP" = "Código de Verificación";
+"Please Enter Valid Postal Code" = "Please Enter Valid Postal Code";
+ "RESEND" = "RESEND";
+"Network error please try again later." = "Network error please try again later.";
+"You need to restart the app again to change the language." = "You need to restart the app again to change the language.";
+"Are you sure you want to Logout from the App." = "¿Estás seguro que quieres salir de Lavanapp?";
+"A mail has been sent to your mail id." = "A mail has been sent to your mail id.";
+"Email ID can't be empty." = "Email ID can't be empty.";
+"Please enter valid email ID." = "Please enter valid email ID.";
+"Please enter your name." = "Please enter your name.";
+"Password can't be empty." = "Password can't be empty.";
+"Mobile number can't be empty." = "Mobile number can't be empty.";
+"Discount code field is empty." = "Discount code field is empty.";
+"Please enter valid phone no, It should be 8 to 15 digits." = "Please enter valid phone no, It should be 8 to 15 digits.";
+"Mail and Confirm Mail values are not same." = "Mail and Confirm Mail values are not same.";
+"Password and Confirm Password values are not same." = "Password and Confirm Password values are not same.";
+"Are you sure you want to delete your account?" = "Are you sure you want to delete your account?";
+"Are you sure you want to revert your profile changes." = "Are you sure you want to revert your profile changes.";
+"You need to login first before placing an order." = "You need to login first before placing an order.";
+"Minimum 8 characters required for password field." = "Minimum 8 characters required for password field.";
+"Direction field is empty." = "Direction field is empty.";
+"City field is empty." = "City field is empty.";
+"State field is empty." = "State field is empty.";
+"Complement field is empty." = "Complement field is empty.";
+"Postal Code field is empty." = "Postal Code field is empty.";
+"Collection date field is empty." = "Collection date field is empty.";
+"Collection time field is empty." = "Collection time field is empty.";
+"Delivery date field is empty." = "Delivery date field is empty.";
+"Delivery time field is empty." = "Delivery time field is empty.";
+"Facebook sharing cancelled." = "Facebook sharing cancelled.";
+"Message has been sent sucessfully." = "Message has been sent sucessfully.";
+"Please set your Facebook account on Setting." = "Please set your Facebook account on Setting.";
+"Twitter sharing cancelled." = "Twitter sharing cancelled.";
+"Please set your Twitter account on Setting." = "Please set your Twitter account on Setting.";
+"Couldn't be shared due to some error." = "Couldn't be shared due to some error.";
+"Sharing" = "Sharing";
+"Successful" = "Successful";
+"Canceled" = "Canceled";
+"FAQ" = "FAQ";
+"Terms of Uses" = "Terms of Uses";
+"Privacy Policy" = "Privacy Policy";
+"Please review the fields marked in red." = "Please review the fields marked in red.";
+"Passwords do not match. Please review the fields marked in red." = "Passwords do not match. Please review the fields marked in red.";
+"Emails do not match. Please review the fields marked in red." = "Emails do not match. Please review the fields marked in red.";
+"Items" = "Items";
+"Your order No." = "Your order No.";
+"was successful. You can check your status at any time in the Your Orders section. Thank you for trusting Lavanapp." = "was successful. You can check your status at any time in the Your Orders section. Thank you for trusting Lavanapp.";
+"Complement" = "Complement";
+"Go To Login" = "Go To Login";
+"Cancel" = "Cancel";
+"Choose Hour" = "Choose Hour";
+"Choose Date" = "Choose Date";
+"Please select collection date first." = "Please select collection date first.";
+"Please select collection time and delivery date first." = "Please select collection time and delivery date first.";
+"Discount:" = "Discount:";
+"Please select a state first." = "Please select a state first.";
+"Your cart is empty please insert some products to place order." = "Your cart is empty please insert some products to place order.";
+"Your account updated successfully." = "Your account updated successfully.";
+"Your account deleted successfully." = "Your account deleted successfully.";
+"Both passwords are not matching,it should be more than 8 character.please review the fields marked in red." = "Both passwords are not matching,it should be more than 8 character.please review the fields marked in red.";
+"Both emails are not matching,Please review the fields marked in red." = "Both emails are not matching,Please review the fields marked in red.";
+"Please enter your name." = "Please enter your name.";
+"Please enter password with minimum length 8." = "Please enter password with minimum length 8.";
+"Lavanapp share with your friends and they will win next 5 Euro for services" = "Lavanapp share with your friends and they will win next 5 Euro for services";
+"YOUR CART" = "YOUR CART";
+"SAVED DETAILS" = "SAVED DETAILS";
+"Saved Details" = "Saved Details";
+"New Payment Method" = "New Payment Method";
+"Name On Card" = "Name On Card";
+"Card Number" = "Card Number";
+"Expiration Date(MM/YY)" = "Expiration Date(MM/YYY";
+"Save Your Detail" = "Save Your Detail";
+"CHECKOUT" = "CHECKOUT";
+"PRICING" = "PRICING";
+"How It Works" = "How It Works";
+"Please enter valid card no, It should be of 16 digits." = "Please enter valid card no, It should be of 16 digits.";
+"Please enter valid expiry date" = "Please enter valid expiry date";
+"Please enter valid CVC" = "Please enter valid CVC";
+
+
+
+

@@ -1,0 +1,396 @@
+
+/* Class = "UITextField"; placeholder = "Choose Hour"; ObjectID = "11q-yB-XQo"; */
+"11q-yB-XQo.placeholder" = "Elige Hora";
+
+/* Class = "UITextField"; placeholder = "Discount Code"; ObjectID = "26b-5G-9qs"; */
+"26b-5G-9qs.placeholder" = "Código Descuento";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "35q-06-Ndl"; */
+"35q-06-Ndl.placeholder" = "Nombre";
+
+/* Class = "UIButton"; normalTitle = "REGISTER"; ObjectID = "40w-IT-9lm"; */
+"40w-IT-9lm.normalTitle" = "REGÍSTRATE";
+
+/* Class = "UILabel"; text = "REGISTER"; ObjectID = "6J3-uP-IKu"; */
+"6J3-uP-IKu.text" = "REGISTRO";
+
+/* Class = "UIButton"; normalTitle = "New Order"; ObjectID = "6uB-q3-7TP"; */
+"6uB-q3-7TP.normalTitle" = "Nuevo Orden";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "7cC-Ia-Q39"; */
+"7cC-Ia-Q39.placeholder" = "E-mail";
+
+/* Class = "UIButton"; normalTitle = "   BACK"; ObjectID = "88W-Wj-DHy"; */
+"88W-Wj-DHy.normalTitle" = "   Volver";
+
+/* Class = "UIButton"; normalTitle = "   YOUR ORDERS"; ObjectID = "88d-1Z-GAm"; */
+"88d-1Z-GAm.normalTitle" = "   MIS PEDIDOS";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "8MS-zI-clb"; */
+"8MS-zI-clb.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Choose Date"; ObjectID = "8aO-f8-Hso"; */
+"8aO-f8-Hso.placeholder" = "Elige Fecha";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "8h8-rp-PYj"; */
+"8h8-rp-PYj.text" = "0";
+
+/* Class = "UILabel"; text = "Oooopssss..."; ObjectID = "9d2-Eo-dN0"; */
+"9d2-Eo-dN0.text" = "Oooopssss...";
+
+/* Class = "UITextField"; placeholder = "Enter Name"; ObjectID = "ANp-0W-owR"; */
+"ANp-0W-owR.placeholder" = "Nombre";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "AU8-Fe-BMl"; */
+"AU8-Fe-BMl.text" = "Completado";
+
+/* Class = "UITextField"; placeholder = "Repeat Password"; ObjectID = "Clc-z9-1jw"; */
+"Clc-z9-1jw.placeholder" = "Confirmar contraseña";
+
+/* Class = "UILabel"; text = "Hello,"; ObjectID = "DIS-Mb-1Sn"; */
+"DIS-Mb-1Sn.text" = "Hola,";
+
+///* Class = "UILabel"; text = "Your Account"; ObjectID = "EOh-FH-efh"; */
+//"EOh-FH-efh.text" = "Su Cuenta";
+
+/* Class = "UITextField"; placeholder = "Postal Code"; ObjectID = "ExR-AR-B6Z"; */
+"ExR-AR-B6Z.placeholder" = "Código Postal";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "FKI-yK-nId"; */
+"FKI-yK-nId.text" = "0";
+
+///* Class = "UILabel"; text = "Frequently Asked Questions"; ObjectID = "Fjt-6w-Mry"; */
+//"Fjt-6w-Mry.text" = "Preguntas Frecuentes";
+
+/* Class = "UILabel"; text = "Login to Your Account"; ObjectID = "G7e-1b-w5d"; */
+"G7e-1b-w5d.text" = "Accede a Tu Cuenta";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "GNT-cv-ywI"; */
+"GNT-cv-ywI.text" = "English";
+
+/* Class = "UILabel"; text = "Please review the fields marked in red"; ObjectID = "GWJ-ab-dSl"; */
+"GWJ-ab-dSl.text" = "Por favor revise los campos marcados en rojo";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "bie-tx-S7f"; */
+"bie-tx-S7f.placeholder" = "Provincia";
+
+/* Class = "UILabel"; text = "iWarning!"; ObjectID = "HDc-9v-fZJ"; */
+"HDc-9v-fZJ.text" = "iAtencion!";
+
+/* Class = "UILabel"; text = "Order No"; ObjectID = "HFn-GN-PaF"; */
+"HFn-GN-PaF.text" = "Nº De Pedido";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "I4Q-y7-gpG"; */
+"I4Q-y7-gpG.normalTitle" = "ACCEDER";
+
+/* Class = "UITextField"; placeholder = "Choose Hour"; ObjectID = "Iy4-jd-c3a"; */
+"Iy4-jd-c3a.placeholder" = "Elige Hora";
+
+/* Class = "UILabel"; text = "Delivery"; ObjectID = "JFK-yh-5TF"; */
+"JFK-yh-5TF.text" = "Entrega";
+
+/* Class = "UILabel"; text = "On this screen you can modify your personal data"; ObjectID = "JfU-Rh-Dru"; */
+"JfU-Rh-Dru.text" = "En esta pantalla puedes modificar tus datos personales";
+
+/* Class = "UILabel"; text = "Order History"; ObjectID = "Kqf-c4-OD5"; */
+"Kqf-c4-OD5.text" = "Mis Pedidos";
+
+/* Class = "UILabel"; text = "Share Lavanapp with your friends and both will win 5€ for next service."; ObjectID = "Kw2-kn-9tO"; */
+"Kw2-kn-9tO.text" = "Compartir Lavanapp con tus amigos y ambos ganarán 5 € para el próximo servicio.";
+
+/* Class = "UITextField"; placeholder = "Choose Date"; ObjectID = "L6D-IR-Fol"; */
+"L6D-IR-Fol.placeholder" = "Elige Fecha";
+
+/* Class = "UIButton"; normalTitle = "I Have No Code"; ObjectID = "LBM-mu-hJJ"; */
+"LBM-mu-hJJ.normalTitle" = "No tengo código";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "M96-Uo-juK"; */
+"M96-Uo-juK.text" = "0";
+
+/* Class = "UILabel"; text = "Discount:"; ObjectID = "MRB-Ga-Lc6"; */
+"MRB-Ga-Lc6.text" = "Descuento:";
+
+/* Class = "UILabel"; text = "Collection"; ObjectID = "MSx-K5-rgg"; */
+"MSx-K5-rgg.text" = "Recogida";
+
+/* Class = "UIButton"; normalTitle = "  Back"; ObjectID = "NWP-zJ-HhM"; */
+"NWP-zJ-HhM.normalTitle" = "  Volver";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Nle-Rn-geu"; */
+"Nle-Rn-geu.text" = "Total";
+
+/* Class = "UIButton"; normalTitle = "Delete My Account"; ObjectID = "O61-t1-y8z"; */
+"O61-t1-y8z.normalTitle" = "Borrar Mi Cuenta";
+
+/* Class = "UILabel"; text = "Put simply, an iBeacon is a low cost, low-energy device which emits a bluetooth signal broadcasting \n\nAre You Sure ??"; ObjectID = "OHl-Th-cXs"; */
+"OHl-Th-cXs.text" = "Put simply, an iBeacon is a low cost, low-energy device which emits a bluetooth signal broadcasting \n\nAre You Sure ??";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "ObU-Py-NlN"; */
+"ObU-Py-NlN.placeholder" = "Correo Electrónico";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "PcV-V5-pgm"; */
+"PcV-V5-pgm.text" = "Política De Privacidad";
+
+/* Class = "UILabel"; text = "5BHSD3"; ObjectID = "PhJ-8x-5BS"; */
+"PhJ-8x-5BS.text" = "5BHSD3";
+
+/* Class = "UILabel"; text = "Welcome to Lavanapp, please complete the details to reigster"; ObjectID = "QHt-yD-Ntp"; */
+"QHt-yD-Ntp.text" = "Bienvenido a Lavanapp. Por favor completa el formulario de registro";
+
+///* Class = "UILabel"; text = "Share and Earn Money"; ObjectID = "QaW-ul-b8L"; */
+//"QaW-ul-b8L.text" = "Comparte y Gana Dinero";
+
+/* Class = "UIButton"; normalTitle = "SEND"; ObjectID = "Raz-64-SH8"; */
+"Raz-64-SH8.normalTitle" = "ENVIAR";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "SqR-7n-mlW"; */
+"SqR-7n-mlW.normalTitle" = "ENTRAR";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "TQj-Pc-W0b"; */
+"TQj-Pc-W0b.text" = "0";
+
+/* Class = "UILabel"; text = "Select a language for this app."; ObjectID = "TkS-jF-ksS"; */
+"TkS-jF-ksS.text" = "Seleccione un idioma para esta aplicación.";
+
+/* Class = "UILabel"/"SPANISH";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "UuH-J7-BxL"; */
+"UuH-J7-BxL.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "SHOW"; ObjectID = "VSP-nw-Kv0"; */
+"VSP-nw-Kv0.normalTitle" = "MOSTRAR";
+
+/* Class = "UILabel"; text = "YOUR DATA"; ObjectID = "W7G-fI-SXr"; */
+"W7G-fI-SXr.text" = "TUS DATOS";
+
+/* Class = "UILabel"; text = "ERROR"; ObjectID = "WuN-pD-RLe"; */
+"WuN-pD-RLe.text" = "ERROR";
+
+/* Class = "UILabel"; text = "-0.0"; ObjectID = "X7C-Gd-8sh"; */
+"X7C-Gd-8sh.text" = "-0.0";
+
+/* Class = "UIButton"; normalTitle = "NEW ORDER"; ObjectID = "Y5S-yi-B9x"; */
+"Y5S-yi-B9x.normalTitle" = "NUEVO PEDIDO";
+
+/* Class = "UILabel"; text = "I would like to receive special offers and promotions in my email."; ObjectID = "Y7q-OX-YUI"; */
+"Y7q-OX-YUI.text" = "Me gustaría recibir ofertas y promociones en mi e-mail";
+
+///* Class = "UILabel"; text = "Close Session"; ObjectID = "YAc-3g-gIr"; */
+//"YAc-3g-gIr.text" = "Cerrar La Sesión";
+
+/* Class = "UILabel"; text = "Discount code entered is not valid"; ObjectID = "YWD-0r-Vic"; */
+"YWD-0r-Vic.text" = "Código promocional introducido no es válido";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "ZFU-lc-Z5C"; */
+"ZFU-lc-Z5C.normalTitle" = "Buscar";
+
+/* Class = "UITextField"; placeholder = "Postal code"; ObjectID = "ZKN-JQ-dSt"; */
+"ZKN-JQ-dSt.placeholder" = "Código Postal";
+
+/* Class = "UILabel"; text = "Cleaning"; ObjectID = "ZUw-I3-Zd3"; */
+"ZUw-I3-Zd3.text" = "Limpiando";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "ZyL-uS-QrP"; */
+"ZyL-uS-QrP.placeholder" = "Contraseña";
+
+/* Class = "UITextField"; placeholder = "Mobile No."; ObjectID = "aRp-58-lbL"; */
+"aRp-58-lbL.placeholder" = "No Móviles.";
+
+/* Class = "UIButton"; normalTitle = "Cancel My Order"; ObjectID = "amR-2L-gcY"; */
+"amR-2L-gcY.normalTitle" = "Cancelar Mi Pedido";
+
+/* Class = "UILabel"; text = "Your order No. %d was successful. You can check your status at any time in the Your Orders section. Thank you for trusting Lavanapp."; ObjectID = "bBZ-Wv-h0H"; */
+"bBZ-Wv-h0H.text" = "Tu pedido con número %d se ha realizado con éxito. Puedes consultar en cualquier momento su estado en la sección Mis Pedidos. Gracias por confiar en Lavanapp";
+
+/* Class = "UITextField"; placeholder = "State"; ObjectID = "Go9-la-vG7"; */
+"Go9-la-vG7.placeholder" = "Ciudad";
+
+/* Class = "UILabel"; text = "Terms of Use"; ObjectID = "bsd-ub-6Ba"; */
+"bsd-ub-6Ba.text" = "POLÍTICA DE PRIVACIDAD";
+
+/* Class = "UITextField"; placeholder = "Enter Email"; ObjectID = "c1j-1H-F9L"; */
+"c1j-1H-F9L.placeholder" = "Correo Electrónico";
+
+/* Class = "UIButton"; normalTitle = "   YOUR CART"; ObjectID = "cF6-gv-Efg"; */
+"cF6-gv-Efg.normalTitle" = "   TU CESTA";
+
+/* Class = "UILabel"; text = "SPANISH"; ObjectID = "cT1-iD-Piy"; */
+"cT1-iD-Piy.text" = "SPANISH";
+
+/* Class = "UILabel"; text = "Enter Your Email"; ObjectID = "cbQ-qR-hFg"; */
+"cbQ-qR-hFg.text" = "¿Has olvidado tu contraseña?";
+
+/* Class = "UILabel"; text = "Delivering"; ObjectID = "dKv-07-9GA"; */
+"dKv-07-9GA.text" = "Entregando";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "dOF-V4-MPM"; */
+"dOF-V4-MPM.placeholder" = "Contraseña";
+
+///* Class = "UILabel"; text = "Your Orders"; ObjectID = "e2V-oC-A3H"; */
+//"e2V-oC-A3H.text" = "Sus Pedidos";
+
+/* Class = "UILabel"; text = "I would like to receive special offers and promotions in my email."; ObjectID = "e89-v6-iJi"; */
+"e89-v6-iJi.text" = "Me gustaría recibir ofertas y promociones en mi e-mail";
+
+/* Class = "UIButton"; normalTitle = "COMPLETE REGISTRATION"; ObjectID = "eGh-Bl-qtd"; */
+"eGh-Bl-qtd.normalTitle" = "REGISTRO COMPLETO";
+
+/* Class = "UILabel"; text = "Order History"; ObjectID = "eiy-7x-Fe4"; */
+"eiy-7x-Fe4.text" = "Mis Pedidos";
+
+/* Class = "UILabel"; text = "Ordered"; ObjectID = "g0i-7n-rbf"; */
+"g0i-7n-rbf.text" = "Confirmado";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "g7a-9R-rmj"; */
+"g7a-9R-rmj.placeholder" = "Contraseña";
+
+/* Class = "UILabel"; text = "Order Status:"; ObjectID = "gvI-f1-OYg"; */
+"gvI-f1-OYg.text" = "Estado del pedido:";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "gyn-j8-4he"; */
+"gyn-j8-4he.normalTitle" = "Hecho";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "hBI-zC-GmG"; */
+"hBI-zC-GmG.text" = "ENTRAR";
+
+/* Class = "UIButton"; normalTitle = "CHECK OUT"; ObjectID = "hHi-k2-hIU"; */
+"hHi-k2-hIU.normalTitle" = "CONTINUAR";
+
+/* Class = "UILabel"; text = "Spanish"; ObjectID = "hZK-7R-rXu"; */
+"hZK-7R-rXu.text" = "Spanish";
+
+/* Class = "UILabel"; text = "Your Cart"; ObjectID = "hn6-1H-4lt"; */
+"hn6-1H-4lt.text" = "Tu Cesta";
+
+/* Class = "UILabel"; text = "If you prefer, You can also:"; ObjectID = "hny-zw-Jft"; */
+"hny-zw-Jft.text" = "Si prefieres, también puedes:";
+
+/* Class = "UIButton"; normalTitle = "DID YOU FORGET YOUR PASSWORD?"; ObjectID = "jMS-UW-NCN"; */
+"jMS-UW-NCN.normalTitle" = "¿Olvidaste tu contraseña?";
+
+/* Class = "UIButton"; normalTitle = "You have a discount code?"; ObjectID = "jhf-9a-geg"; */
+"jhf-9a-geg.normalTitle" = "¿Tienes un código descuento?";
+
+/* Class = "UIButton"; normalTitle = "   YOUR ORDERS"; ObjectID = "jiQ-Pp-qAy"; */
+"jiQ-Pp-qAy.normalTitle" = "   MIS PEDIDOS";
+
+///* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "kDN-Ri-bek"; */
+//"kDN-Ri-bek.text" = "Política De Privacidad";
+
+/* Class = "UIButton"; normalTitle = "GO TO YOUR ORDERS"; ObjectID = "kUg-ob-1Ss"; */
+"kUg-ob-1Ss.normalTitle" = "IR A MIS PEDIDOS";
+
+/* Class = "UIButton"; normalTitle = "Apply Code"; ObjectID = "kYK-yC-GeX"; */
+"kYK-yC-GeX.normalTitle" = "Aplicar Código";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "laY-wg-eEL"; */
+"laY-wg-eEL.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "nBh-Q3-Q3R"; */
+"nBh-Q3-Q3R.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "nMh-lX-5NN"; */
+"nMh-lX-5NN.normalTitle" = "GUARDAR";
+
+/* Class = "UITextField"; placeholder = "Notes"; ObjectID = "nPk-Yd-jg7"; */
+"nPk-Yd-jg7.placeholder" = "Notas para el repartidor";
+
+/* Class = "UIButton"; normalTitle = "Cancel Changes"; ObjectID = "nsr-hY-Pkp"; */
+"nsr-hY-Pkp.normalTitle" = "Cancelar Cambios";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "nxh-mS-3EO"; */
+"nxh-mS-3EO.text" = "Contáctenos";
+
+/* Class = "UIButton"; normalTitle = "BACK TO HOME"; ObjectID = "oA3-dx-2EN"; */
+"oA3-dx-2EN.normalTitle" = "VOLVER A INICIO";
+
+/* Class = "UILabel"; text = "Congratulation!"; ObjectID = "oC1-q7-tdL"; */
+"oC1-q7-tdL.text" = "¡Gracias!";
+
+/* Class = "UIButton"; normalTitle = "Back To My Orders"; ObjectID = "p77-eQ-LZn"; */
+"p77-eQ-LZn.normalTitle" = "Back To Mis Pedidos";
+
+/* Class = "UILabel"; text = "Please enter your user data."; ObjectID = "pQN-AI-TPE"; */
+"pQN-AI-TPE.text" = "Por favor introduce tus datos de usuario";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "pdT-Ec-si3"; */
+"pdT-Ec-si3.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Confirm Email"; ObjectID = "qTP-5p-Uhx"; */
+"qTP-5p-Uhx.placeholder" = "Confirmar Correo Electrónico";
+
+/* Class = "UILabel"; text = "ERROR"; ObjectID = "rUd-vm-zZR"; */
+"rUd-vm-zZR.text" = "ERROR";
+
+/* Class = "UILabel"; text = "Lavanapp are not serving that area yet, do not worry, we are extending our services and we will be there soon."; ObjectID = "rXB-nj-KLO"; */
+"rXB-nj-KLO.text" = "Lo sentimos, Lavanapp no opera  en esta zona. Estamos trabajando para ampliar áreas de servicio.¡Muy pronto llegaramos hasta allí!.";
+
+///* Class = "UILabel"; text = "Contact Us"; ObjectID = "s7U-fn-9YJ"; */
+//"s7U-fn-9YJ.text" = "Contáctenos";
+
+/* Class = "UILabel"; text = "Register Now"; ObjectID = "smy-05-Kh1"; */
+"smy-05-Kh1.text" = "Regístrate Ahora";
+
+/* Class = "UIButton"; normalTitle = "Send Request"; ObjectID = "taq-9t-IFX"; */
+"taq-9t-IFX.normalTitle" = "HACER PEDIDO";
+
+/* Class = "UITextField"; placeholder = "Directions"; ObjectID = "u0B-rK-bkl"; */
+"u0B-rK-bkl.placeholder" = "Dirección de recogida y entrega";
+
+/* Class = "UILabel"; text = "Collecting"; ObjectID = "uue-Bj-Rgp"; */
+"uue-Bj-Rgp.text" = "Recogiendo";
+
+/* Class = "UILabel"; text = "Frequently Asked Questions"; ObjectID = "uzh-1P-wSL"; */
+"uzh-1P-wSL.text" = "Preguntas Frecuentes";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "wyS-Fw-W8i"; */
+"wyS-Fw-W8i.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "              LOGIN WITH FACEBOOK"; ObjectID = "y4E-C6-cy3"; */
+"y4E-C6-cy3.normalTitle" = "              ACCEDER CON FACEBOOK";
+
+/* Class = "UILabel"; text = "Terms of Use"; ObjectID = "yJp-e2-6xD"; */
+"yJp-e2-6xD.text" = "POLÍTICA DE PRIVACIDAD";
+
+/* Class = "UILabel"; text = "PERSONAL CODE"; ObjectID = "yaM-LS-9qn"; */
+"yaM-LS-9qn.text" = "CODIGO PERSONAL";
+
+/* Class = "UITextField"; placeholder = "Enter Mobile No."; ObjectID = "ykW-0W-g3o"; */
+"ykW-0W-g3o.placeholder" = "Teléfono";
+
+/* Class = "UILabel"; text = "Please Enter OTP"; ObjectID = "Y5h-Qb-uvF"; */
+"Y5h-Qb-uvF.text" = "Código de Verificación";
+
+/* Class = "UIButton"; normalTitle = "RESEND"; ObjectID = "sl1-oY-Bse"; */
+"sl1-oY-Bse.normalTitle" = "RESEND";
+
+
+/* Class = "UILabel"; text = "NEW ORDER"; ObjectID = "EOh-FH-efh"; */
+"EOh-FH-efh.text" = "NUEVO PEDIDO";
+
+/* Class = "UILabel"; text = "MY ACCOUNT"; ObjectID = "e2V-oC-A3H"; */
+"e2V-oC-A3H.text" = "MI CUENTA";
+
+/* Class = "UILabel"; text = "HOW IT WORKS"; ObjectID = "QaW-ul-b8L"; */
+"QaW-ul-b8L.text" = "CÓMO FUNCIONA";
+
+/* Class = "UILabel"; text = "PRICE"; ObjectID = "s7U-fn-9YJ"; */
+"s7U-fn-9YJ.text" = "PRECIOS";
+
+/* Class = "UILabel"; text = "MY ORDERS"; ObjectID = "YAc-3g-gIr"; */
+"YAc-3g-gIr.text" = "MIS PEDIDOS";
+
+
+/* Class = "UILabel"; text = "CONTACT"; ObjectID = "Ur8-UI-YaB"; */
+"Ur8-UI-YaB.text" = "CONTACTAR";
+
+/* Class = "UILabel"; text = "TERMS OF USE"; ObjectID = "Fjt-6w-Mry"; */
+"Fjt-6w-Mry.text" = "TÉRMINOS Y CONDICIONES";
+
+
+/* Class = "UILabel"; text = "PRIVACY POLICY"; ObjectID = "kDN-Ri-bek"; */
+"kDN-Ri-bek.text" = "POLÍTICA DE PRIVACIDAD";
+
+/* Class = "UILabel"; text = "CLOSE SESSION"; ObjectID = "mio-hv-Qiv"; */
+"mio-hv-Qiv.text" = "CERRAR LA SESIÓN";
+
